@@ -9,3 +9,4 @@ test-complete/build/
 *.ear
 .classpath
 .gitignore
+.idea
